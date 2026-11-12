@@ -909,3 +909,59 @@ text-align: center;
     }
 
 }
+
+/* Birthday letter opening and closing */
+
+.birthday-opening,
+.birthday-ending {
+    text-align: center;
+    padding: 25px 12px;
+    margin: 25px 0;
+}
+
+.birthday-opening h3 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 30px;
+    color: #be9255;
+    margin: 15px 0;
+}
+
+.birthday-opening p {
+    font-family: 'Lato', sans-serif;
+    color: #B9A99A;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+
+.birthday-ending {
+    border-top: 1px solid #B9A99A;
+    margin-top: 35px;
+    padding-top: 35px;
+}
+
+.birthday-ending h2 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 32px;
+    color: #c59046;
+    letter-spacing: 1px;
+    margin: 20px 0;
+}
+
+.birthday-ending p {
+    color: #d7a779;
+    font-size: 14px;
+}
+
+.birthday-ending h3 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 25px;
+    font-style: italic;
+    color: #c9a97d;
+    margin-top: 25px;
+}
+
+.birthday-decoration {
+    color: #B9A99A;
+    letter-spacing: 4px;
+    font-size: 13px;
+}
